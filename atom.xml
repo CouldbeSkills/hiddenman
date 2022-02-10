@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HiddenMan</title>
+  
+  <subtitle>C&#39;est la vie</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hiddenman.cn/"/>
+  <updated>2021-10-11T01:27:56.544Z</updated>
+  <id>http://hiddenman.cn/</id>
+  
+  <author>
+    <name>HiddenMan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【A13】S7-200SMART经典案例</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-jing-dian-an-li/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-jing-dian-an-li/</id>
+    <published>2021-10-25T15:45:32.000Z</published>
+    <updated>2021-10-11T01:27:56.544Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;以天下为之笼，则雀无所逃。 ——庄子 《庚桑楚》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、S7-200SMART进阶指令&quot;&gt;&lt;a href=&quot;#一、S7-200SMART进阶指令&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="S7-S200" scheme="http://hiddenman.cn/tags/S7-S200/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A12】S7-200SMART与变频器通信</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-yu-bian-pin-qi-tong-xin/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-yu-bian-pin-qi-tong-xin/</id>
+    <published>2021-10-23T13:08:32.000Z</published>
+    <updated>2021-10-11T01:24:23.777Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;天地有大美而不言。 ——庄子 《知北游》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、S7-200SMART进阶指令&quot;&gt;&lt;a href=&quot;#一、S7-200SMART进阶指令&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="S7-S200" scheme="http://hiddenman.cn/tags/S7-S200/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A11】S7-200SMART之MODBUS通信</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-zhi-modbus-tong-xin/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-zhi-modbus-tong-xin/</id>
+    <published>2021-10-21T13:08:32.000Z</published>
+    <updated>2021-10-11T01:21:06.045Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;人皆知有用之用，而莫知无用之用也。 ——庄子 《人间世》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、S7-200SMART进阶指令&quot;&gt;&lt;a href=&quot;#一、S7-200SMART进阶指令&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="S7-S200" scheme="http://hiddenman.cn/tags/S7-S200/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A10】S7-200SMART之GETPUT通信</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-zhi-getput-tong-xin/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-zhi-getput-tong-xin/</id>
+    <published>2021-10-19T01:08:32.000Z</published>
+    <updated>2021-10-11T01:19:46.774Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;哀莫大于心死，而人死亦次之。 ——庄子 《庄子 田子方》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、S7-200SMART进阶指令&quot;&gt;&lt;a href=&quot;#一、S7-200SMART进阶指令&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="S7-S200" scheme="http://hiddenman.cn/tags/S7-S200/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A09】S7-200SMART高速脉冲</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-gao-su-mai-chong/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-gao-su-mai-chong/</id>
+    <published>2021-10-17T01:21:32.000Z</published>
+    <updated>2021-10-11T01:15:07.370Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;无用之用，方为大用。 ——庄子 《庄子》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、S7-200SMART进阶指令&quot;&gt;&lt;a href=&quot;#一、S7-200SMART进阶指令&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="S7-S200" scheme="http://hiddenman.cn/tags/S7-S200/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A08】S7-200SMART高速计数器</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-gao-su-ji-shu-qi/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-gao-su-ji-shu-qi/</id>
+    <published>2021-10-15T01:16:10.000Z</published>
+    <updated>2021-10-11T01:14:11.445Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;彼采萧兮，一日不见，如三秋兮！ ——诗经 《诗经·王风·采葛》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、S7-200SMART高速计数器&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="S7-S200" scheme="http://hiddenman.cn/tags/S7-S200/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A07】S7-200SMART之PID调节</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-zhi-pid-diao-jie/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-zhi-pid-diao-jie/</id>
+    <published>2021-10-13T01:43:32.000Z</published>
+    <updated>2021-10-11T01:09:19.771Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;五月鸣蜩，六月精阳。七月流火。 ——诗经&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、PID调节知识&quot;&gt;&lt;a href=&quot;#一、PID调节知识&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="S7-S200" scheme="http://hiddenman.cn/tags/S7-S200/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A06】S7-200SMART模拟量</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-mo-ni-liang/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-mo-ni-liang/</id>
+    <published>2021-10-10T16:10:32.000Z</published>
+    <updated>2021-10-07T16:18:53.872Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;蒹葭苍苍，白露为霜。所谓伊人，在水一方。 ——诗经 《国风·秦风·蒹葭》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、S7-200SMART模拟量概念&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="S7-S200" scheme="http://hiddenman.cn/tags/S7-S200/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A05】S7-200SMART中断子程序</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-zhong-duan-zi-cheng-xu/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-zhong-duan-zi-cheng-xu/</id>
+    <published>2021-10-08T16:17:32.000Z</published>
+    <updated>2021-10-07T16:18:35.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;知我者，谓我心忧；不知我者，谓我何求。 ——诗经 《黍离》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、S7-200SMART子程序&quot;&gt;&lt;a href=&quot;#一、S7-200SMART子程序&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="S7-S200" scheme="http://hiddenman.cn/tags/S7-S200/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A04】S7-200SMART进阶指令</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-jin-jie-zhi-ling/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-jin-jie-zhi-ling/</id>
+    <published>2021-10-07T07:08:32.000Z</published>
+    <updated>2021-10-05T01:17:20.094Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;吾生也有涯，而知也无涯。以有涯随无涯，殆已；已而为知者，殆而已矣。 ——庄子 《养生主》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、S7-200SMART进阶指令&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="进阶指令" scheme="http://hiddenman.cn/tags/%E8%BF%9B%E9%98%B6%E6%8C%87%E4%BB%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A03】S7-200SMART数据结构</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-shu-ju-jie-gou/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-shu-ju-jie-gou/</id>
+    <published>2021-10-05T01:08:36.000Z</published>
+    <updated>2021-10-05T01:16:04.588Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;君子之交淡若水，小人之交甘若醴；君子淡以亲，小人甘以绝。 ——庄周&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、S7-200-SMART数据结构&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="数据结构" scheme="http://hiddenman.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+      <category term="进制转换" scheme="http://hiddenman.cn/tags/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A02】S7-200SMART基础指令</title>
+    <link href="http://hiddenman.cn/article/s7-200smart-ji-chu-zhi-ling/"/>
+    <id>http://hiddenman.cn/article/s7-200smart-ji-chu-zhi-ling/</id>
+    <published>2021-10-03T12:22:32.000Z</published>
+    <updated>2021-09-30T14:12:10.932Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;来世不可待，往世不可追也。 ——庄子 《庄子·人世间》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、S7-200-SMART-操作指令&quot;&gt;&lt;a href=&quot;#一、S7-200-SMART-操作指令&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="S7-S200" scheme="http://hiddenman.cn/tags/S7-S200/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A01】认识S7-200SMART</title>
+    <link href="http://hiddenman.cn/article/ren-shi-s7-200smart/"/>
+    <id>http://hiddenman.cn/article/ren-shi-s7-200smart/</id>
+    <published>2021-10-01T12:22:08.000Z</published>
+    <updated>2021-09-30T14:12:02.536Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;人生天地之间，若白驹过隙，忽然而已。 ——庄子 《知北游》&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、西门子S7-200SMART基础&quot;&gt;&lt;a href=&quot;#一、西门子S7-200SMART基础&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="西门子知识" scheme="http://hiddenman.cn/categories/%E8%A5%BF%E9%97%A8%E5%AD%90%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="西门子PLC" scheme="http://hiddenman.cn/tags/%E8%A5%BF%E9%97%A8%E5%AD%90PLC/"/>
+    
+      <category term="S7-S200" scheme="http://hiddenman.cn/tags/S7-S200/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【A00】目录及名言</title>
+    <link href="http://hiddenman.cn/article/zhan-nei-ming-yan-ming-ju-hui-zong/"/>
+    <id>http://hiddenman.cn/article/zhan-nei-ming-yan-ming-ju-hui-zong/</id>
+    <published>2021-09-30T16:00:01.000Z</published>
+    <updated>2021-10-11T01:27:48.220Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;【A01】认识S7-200SMART&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;【A02】S7-200SMART基础指令&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;【A03】S7-200SMART数据结构&lt;/strong
+        
+      
+    
+    </summary>
+    
+      <category term="站点目录" scheme="http://hiddenman.cn/categories/%E7%AB%99%E7%82%B9%E7%9B%AE%E5%BD%95/"/>
+    
+    
+      <category term="电气工程" scheme="http://hiddenman.cn/tags/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B/"/>
+    
+      <category term="目录名言" scheme="http://hiddenman.cn/tags/%E7%9B%AE%E5%BD%95%E5%90%8D%E8%A8%80/"/>
+    
+  </entry>
+  
+</feed>

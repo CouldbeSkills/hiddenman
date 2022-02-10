@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>【A13】S7-200SMART经典案例</title>
+      <link href="article/s7-200smart-jing-dian-an-li/"/>
+      <url>article/s7-200smart-jing-dian-an-li/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>以天下为之笼，则雀无所逃。 ——庄子 《庚桑楚》</strong></p></blockquote><h2 id="一、S7-200SMART进阶指令"><a href="#一、S7-200SMART进阶指令" class="headerlink" title="一、S7-200SMART进阶指令"></a>一、S7-200SMART进阶指令</h2><h3 id="1-1-S7-200-SMART-比较指令"><a href="#1-1-S7-200-SMART-比较指令" class="headerlink" title="1.1 S7-200 SMART 比较指令"></a>1.1 S7-200 SMART 比较指令</h3><h4 id="1-1-1-比较指令"><a href="#1-1-1-比较指令" class="headerlink" title="1.1.1 比较指令"></a>1.1.1 比较指令</h4><p><img src="1S7-200SMART%E6%AF%94%E8%BE%83%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-1：S7-200SMART比较指令</strong></p><h4 id="1-1-2-比较指令喷泉案例"><a href="#1-1-2-比较指令喷泉案例" class="headerlink" title="1.1.2 比较指令喷泉案例"></a>1.1.2 比较指令喷泉案例</h4><p><img src="2%E6%AF%94%E8%BE%83%E6%8C%87%E4%BB%A4%E8%81%94%E7%B3%BB%E5%96%B7%E6%B3%89%E6%A1%88%E4%BE%8B.png" alt></p><p><strong>图1-2：S7-200SMART比较指令</strong></p><p><strong>本案例只作为比较指令的用法。实际使用需要更精确及考虑周全。</strong></p><h3 id="1-2-进阶指令"><a href="#1-2-进阶指令" class="headerlink" title="1.2 进阶指令"></a>1.2 进阶指令</h3><h4 id="1-2-1-数据传送指令"><a href="#1-2-1-数据传送指令" class="headerlink" title="1.2.1 数据传送指令"></a>1.2.1 数据传送指令</h4><p><img src="3S7-200SMART%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%81%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-3：S7-200SMART 数据传送指令</strong></p><h4 id="1-2-2-数据转换指令"><a href="#1-2-2-数据转换指令" class="headerlink" title="1.2.2 数据转换指令"></a>1.2.2 数据转换指令</h4><p><img src="4S7-200SMART%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%8D%A2%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-4：S7-200SMART 数据转换指令</strong></p><h4 id="1-2-3-整数运算指令及应用"><a href="#1-2-3-整数运算指令及应用" class="headerlink" title="1.2.3 整数运算指令及应用"></a>1.2.3 整数运算指令及应用</h4><p><img src="5S7-200SMART%E6%95%B4%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图1-5：S7-200SMART 整数运算指令及应用</strong></p><p><img src="6S7-200SMART%E6%95%B4%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E7%A4%BA%E4%BE%8B.png" alt></p><p><strong>图1-6：S7-200SMART 整数运算指令示例</strong></p><h4 id="1-2-4-浮点数四则运算指令及应用"><a href="#1-2-4-浮点数四则运算指令及应用" class="headerlink" title="1.2.4 浮点数四则运算指令及应用"></a>1.2.4 浮点数四则运算指令及应用</h4><p><img src="7S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图1-7：S7-200SMART 浮点数四则运算指令及应用</strong></p><p><img src="8S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-8：S7-200SMART 浮点数四则运算指令及应用示例</strong></p><h4 id="1-2-5-浮点数三角函数运算指令"><a href="#1-2-5-浮点数三角函数运算指令" class="headerlink" title="1.2.5 浮点数三角函数运算指令"></a>1.2.5 浮点数三角函数运算指令</h4><p><img src="9S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E7%A4%BA%E4%BE%8B.png" alt></p><p><img src="10S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B.png" alt></p><p><strong>图1-9：S7-200SMART 浮点数三角函数运算指令</strong></p><h4 id="1-2-6-移位指令"><a href="#1-2-6-移位指令" class="headerlink" title="1.2.6 移位指令"></a>1.2.6 移位指令</h4><p><img src="11S7-200SMART%E7%A7%BB%E4%BD%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><img src="12S7-200SMART%E7%A7%BB%E4%BD%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-10：S7-200SMART 移位指令</strong></p><blockquote><p><strong>节饮食以养胃，多读书以养胆。 ——庄子</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> S7-S200 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A12】S7-200SMART与变频器通信</title>
+      <link href="article/s7-200smart-yu-bian-pin-qi-tong-xin/"/>
+      <url>article/s7-200smart-yu-bian-pin-qi-tong-xin/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>天地有大美而不言。 ——庄子 《知北游》</strong></p></blockquote><h2 id="一、S7-200SMART进阶指令"><a href="#一、S7-200SMART进阶指令" class="headerlink" title="一、S7-200SMART进阶指令"></a>一、S7-200SMART进阶指令</h2><h3 id="1-1-S7-200-SMART-比较指令"><a href="#1-1-S7-200-SMART-比较指令" class="headerlink" title="1.1 S7-200 SMART 比较指令"></a>1.1 S7-200 SMART 比较指令</h3><h4 id="1-1-1-比较指令"><a href="#1-1-1-比较指令" class="headerlink" title="1.1.1 比较指令"></a>1.1.1 比较指令</h4><p><img src="1S7-200SMART%E6%AF%94%E8%BE%83%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-1：S7-200SMART比较指令</strong></p><h4 id="1-1-2-比较指令喷泉案例"><a href="#1-1-2-比较指令喷泉案例" class="headerlink" title="1.1.2 比较指令喷泉案例"></a>1.1.2 比较指令喷泉案例</h4><p><img src="2%E6%AF%94%E8%BE%83%E6%8C%87%E4%BB%A4%E8%81%94%E7%B3%BB%E5%96%B7%E6%B3%89%E6%A1%88%E4%BE%8B.png" alt></p><p><strong>图1-2：S7-200SMART比较指令</strong></p><p><strong>本案例只作为比较指令的用法。实际使用需要更精确及考虑周全。</strong></p><h3 id="1-2-进阶指令"><a href="#1-2-进阶指令" class="headerlink" title="1.2 进阶指令"></a>1.2 进阶指令</h3><h4 id="1-2-1-数据传送指令"><a href="#1-2-1-数据传送指令" class="headerlink" title="1.2.1 数据传送指令"></a>1.2.1 数据传送指令</h4><p><img src="3S7-200SMART%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%81%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-3：S7-200SMART 数据传送指令</strong></p><h4 id="1-2-2-数据转换指令"><a href="#1-2-2-数据转换指令" class="headerlink" title="1.2.2 数据转换指令"></a>1.2.2 数据转换指令</h4><p><img src="4S7-200SMART%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%8D%A2%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-4：S7-200SMART 数据转换指令</strong></p><h4 id="1-2-3-整数运算指令及应用"><a href="#1-2-3-整数运算指令及应用" class="headerlink" title="1.2.3 整数运算指令及应用"></a>1.2.3 整数运算指令及应用</h4><p><img src="5S7-200SMART%E6%95%B4%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图1-5：S7-200SMART 整数运算指令及应用</strong></p><p><img src="6S7-200SMART%E6%95%B4%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E7%A4%BA%E4%BE%8B.png" alt></p><p><strong>图1-6：S7-200SMART 整数运算指令示例</strong></p><h4 id="1-2-4-浮点数四则运算指令及应用"><a href="#1-2-4-浮点数四则运算指令及应用" class="headerlink" title="1.2.4 浮点数四则运算指令及应用"></a>1.2.4 浮点数四则运算指令及应用</h4><p><img src="7S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图1-7：S7-200SMART 浮点数四则运算指令及应用</strong></p><p><img src="8S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-8：S7-200SMART 浮点数四则运算指令及应用示例</strong></p><h4 id="1-2-5-浮点数三角函数运算指令"><a href="#1-2-5-浮点数三角函数运算指令" class="headerlink" title="1.2.5 浮点数三角函数运算指令"></a>1.2.5 浮点数三角函数运算指令</h4><p><img src="9S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E7%A4%BA%E4%BE%8B.png" alt></p><p><img src="10S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B.png" alt></p><p><strong>图1-9：S7-200SMART 浮点数三角函数运算指令</strong></p><h4 id="1-2-6-移位指令"><a href="#1-2-6-移位指令" class="headerlink" title="1.2.6 移位指令"></a>1.2.6 移位指令</h4><p><img src="11S7-200SMART%E7%A7%BB%E4%BD%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><img src="12S7-200SMART%E7%A7%BB%E4%BD%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-10：S7-200SMART 移位指令</strong></p><blockquote><p><strong>日出而作，日入而息。逍遥于天地之间，而心意自得。 ——庄子 《庄子·让王》</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> S7-S200 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A11】S7-200SMART之MODBUS通信</title>
+      <link href="article/s7-200smart-zhi-modbus-tong-xin/"/>
+      <url>article/s7-200smart-zhi-modbus-tong-xin/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>人皆知有用之用，而莫知无用之用也。 ——庄子 《人间世》</strong></p></blockquote><h2 id="一、S7-200SMART进阶指令"><a href="#一、S7-200SMART进阶指令" class="headerlink" title="一、S7-200SMART进阶指令"></a>一、S7-200SMART进阶指令</h2><h3 id="1-1-S7-200-SMART-比较指令"><a href="#1-1-S7-200-SMART-比较指令" class="headerlink" title="1.1 S7-200 SMART 比较指令"></a>1.1 S7-200 SMART 比较指令</h3><h4 id="1-1-1-比较指令"><a href="#1-1-1-比较指令" class="headerlink" title="1.1.1 比较指令"></a>1.1.1 比较指令</h4><p><img src="1S7-200SMART%E6%AF%94%E8%BE%83%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-1：S7-200SMART比较指令</strong></p><h4 id="1-1-2-比较指令喷泉案例"><a href="#1-1-2-比较指令喷泉案例" class="headerlink" title="1.1.2 比较指令喷泉案例"></a>1.1.2 比较指令喷泉案例</h4><p><img src="2%E6%AF%94%E8%BE%83%E6%8C%87%E4%BB%A4%E8%81%94%E7%B3%BB%E5%96%B7%E6%B3%89%E6%A1%88%E4%BE%8B.png" alt></p><p><strong>图1-2：S7-200SMART比较指令</strong></p><p><strong>本案例只作为比较指令的用法。实际使用需要更精确及考虑周全。</strong></p><h3 id="1-2-进阶指令"><a href="#1-2-进阶指令" class="headerlink" title="1.2 进阶指令"></a>1.2 进阶指令</h3><h4 id="1-2-1-数据传送指令"><a href="#1-2-1-数据传送指令" class="headerlink" title="1.2.1 数据传送指令"></a>1.2.1 数据传送指令</h4><p><img src="3S7-200SMART%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%81%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-3：S7-200SMART 数据传送指令</strong></p><h4 id="1-2-2-数据转换指令"><a href="#1-2-2-数据转换指令" class="headerlink" title="1.2.2 数据转换指令"></a>1.2.2 数据转换指令</h4><p><img src="4S7-200SMART%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%8D%A2%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-4：S7-200SMART 数据转换指令</strong></p><h4 id="1-2-3-整数运算指令及应用"><a href="#1-2-3-整数运算指令及应用" class="headerlink" title="1.2.3 整数运算指令及应用"></a>1.2.3 整数运算指令及应用</h4><p><img src="5S7-200SMART%E6%95%B4%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图1-5：S7-200SMART 整数运算指令及应用</strong></p><p><img src="6S7-200SMART%E6%95%B4%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E7%A4%BA%E4%BE%8B.png" alt></p><p><strong>图1-6：S7-200SMART 整数运算指令示例</strong></p><h4 id="1-2-4-浮点数四则运算指令及应用"><a href="#1-2-4-浮点数四则运算指令及应用" class="headerlink" title="1.2.4 浮点数四则运算指令及应用"></a>1.2.4 浮点数四则运算指令及应用</h4><p><img src="7S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图1-7：S7-200SMART 浮点数四则运算指令及应用</strong></p><p><img src="8S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-8：S7-200SMART 浮点数四则运算指令及应用示例</strong></p><h4 id="1-2-5-浮点数三角函数运算指令"><a href="#1-2-5-浮点数三角函数运算指令" class="headerlink" title="1.2.5 浮点数三角函数运算指令"></a>1.2.5 浮点数三角函数运算指令</h4><p><img src="9S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E7%A4%BA%E4%BE%8B.png" alt></p><p><img src="10S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B.png" alt></p><p><strong>图1-9：S7-200SMART 浮点数三角函数运算指令</strong></p><h4 id="1-2-6-移位指令"><a href="#1-2-6-移位指令" class="headerlink" title="1.2.6 移位指令"></a>1.2.6 移位指令</h4><p><img src="11S7-200SMART%E7%A7%BB%E4%BD%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><img src="12S7-200SMART%E7%A7%BB%E4%BD%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-10：S7-200SMART 移位指令</strong></p><blockquote><p><strong>尾生与女子期于梁下，女子不来，水至不去，抱梁柱而死。 ——庄子 《庄子》</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> S7-S200 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A10】S7-200SMART之GETPUT通信</title>
+      <link href="article/s7-200smart-zhi-getput-tong-xin/"/>
+      <url>article/s7-200smart-zhi-getput-tong-xin/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>哀莫大于心死，而人死亦次之。 ——庄子 《庄子 田子方》</strong></p></blockquote><h2 id="一、S7-200SMART进阶指令"><a href="#一、S7-200SMART进阶指令" class="headerlink" title="一、S7-200SMART进阶指令"></a>一、S7-200SMART进阶指令</h2><h3 id="1-1-S7-200-SMART-比较指令"><a href="#1-1-S7-200-SMART-比较指令" class="headerlink" title="1.1 S7-200 SMART 比较指令"></a>1.1 S7-200 SMART 比较指令</h3><h4 id="1-1-1-比较指令"><a href="#1-1-1-比较指令" class="headerlink" title="1.1.1 比较指令"></a>1.1.1 比较指令</h4><p><img src="1S7-200SMART%E6%AF%94%E8%BE%83%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-1：S7-200SMART比较指令</strong></p><h4 id="1-1-2-比较指令喷泉案例"><a href="#1-1-2-比较指令喷泉案例" class="headerlink" title="1.1.2 比较指令喷泉案例"></a>1.1.2 比较指令喷泉案例</h4><p><img src="2%E6%AF%94%E8%BE%83%E6%8C%87%E4%BB%A4%E8%81%94%E7%B3%BB%E5%96%B7%E6%B3%89%E6%A1%88%E4%BE%8B.png" alt></p><p><strong>图1-2：S7-200SMART比较指令</strong></p><p><strong>本案例只作为比较指令的用法。实际使用需要更精确及考虑周全。</strong></p><h3 id="1-2-进阶指令"><a href="#1-2-进阶指令" class="headerlink" title="1.2 进阶指令"></a>1.2 进阶指令</h3><h4 id="1-2-1-数据传送指令"><a href="#1-2-1-数据传送指令" class="headerlink" title="1.2.1 数据传送指令"></a>1.2.1 数据传送指令</h4><p><img src="3S7-200SMART%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%81%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-3：S7-200SMART 数据传送指令</strong></p><h4 id="1-2-2-数据转换指令"><a href="#1-2-2-数据转换指令" class="headerlink" title="1.2.2 数据转换指令"></a>1.2.2 数据转换指令</h4><p><img src="4S7-200SMART%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%8D%A2%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-4：S7-200SMART 数据转换指令</strong></p><h4 id="1-2-3-整数运算指令及应用"><a href="#1-2-3-整数运算指令及应用" class="headerlink" title="1.2.3 整数运算指令及应用"></a>1.2.3 整数运算指令及应用</h4><p><img src="5S7-200SMART%E6%95%B4%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图1-5：S7-200SMART 整数运算指令及应用</strong></p><p><img src="6S7-200SMART%E6%95%B4%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E7%A4%BA%E4%BE%8B.png" alt></p><p><strong>图1-6：S7-200SMART 整数运算指令示例</strong></p><h4 id="1-2-4-浮点数四则运算指令及应用"><a href="#1-2-4-浮点数四则运算指令及应用" class="headerlink" title="1.2.4 浮点数四则运算指令及应用"></a>1.2.4 浮点数四则运算指令及应用</h4><p><img src="7S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图1-7：S7-200SMART 浮点数四则运算指令及应用</strong></p><p><img src="8S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-8：S7-200SMART 浮点数四则运算指令及应用示例</strong></p><h4 id="1-2-5-浮点数三角函数运算指令"><a href="#1-2-5-浮点数三角函数运算指令" class="headerlink" title="1.2.5 浮点数三角函数运算指令"></a>1.2.5 浮点数三角函数运算指令</h4><p><img src="9S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E7%A4%BA%E4%BE%8B.png" alt></p><p><img src="10S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B.png" alt></p><p><strong>图1-9：S7-200SMART 浮点数三角函数运算指令</strong></p><h4 id="1-2-6-移位指令"><a href="#1-2-6-移位指令" class="headerlink" title="1.2.6 移位指令"></a>1.2.6 移位指令</h4><p><img src="11S7-200SMART%E7%A7%BB%E4%BD%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><img src="12S7-200SMART%E7%A7%BB%E4%BD%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-10：S7-200SMART 移位指令</strong></p><blockquote><p><strong>天地与我并存，万物与我为一。 ——庄周</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> S7-S200 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A09】S7-200SMART高速脉冲</title>
+      <link href="article/s7-200smart-gao-su-mai-chong/"/>
+      <url>article/s7-200smart-gao-su-mai-chong/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>无用之用，方为大用。 ——庄子 《庄子》</strong></p></blockquote><h2 id="一、S7-200SMART进阶指令"><a href="#一、S7-200SMART进阶指令" class="headerlink" title="一、S7-200SMART进阶指令"></a>一、S7-200SMART进阶指令</h2><h3 id="1-1-S7-200-SMART-比较指令"><a href="#1-1-S7-200-SMART-比较指令" class="headerlink" title="1.1 S7-200 SMART 比较指令"></a>1.1 S7-200 SMART 比较指令</h3><h4 id="1-1-1-比较指令"><a href="#1-1-1-比较指令" class="headerlink" title="1.1.1 比较指令"></a>1.1.1 比较指令</h4><p><img src="1S7-200SMART%E6%AF%94%E8%BE%83%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-1：S7-200SMART比较指令</strong></p><p><img src="PLC%E6%8C%87%E4%BB%A41.pdf" alt></p><blockquote><p><strong>巧者劳而智者忧，无能者无所求。 ——庄子</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> S7-S200 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A08】S7-200SMART高速计数器</title>
+      <link href="article/s7-200smart-gao-su-ji-shu-qi/"/>
+      <url>article/s7-200smart-gao-su-ji-shu-qi/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>彼采萧兮，一日不见，如三秋兮！ ——诗经 《诗经·王风·采葛》</strong></p></blockquote><h2 id="一、S7-200SMART高速计数器"><a href="#一、S7-200SMART高速计数器" class="headerlink" title="一、S7-200SMART高速计数器"></a>一、S7-200SMART高速计数器</h2><h3 id="1-1-高速计数器概念"><a href="#1-1-高速计数器概念" class="headerlink" title="1.1 高速计数器概念"></a>1.1 高速计数器概念</h3><h4 id="1-1-1-高速计数器特点"><a href="#1-1-1-高速计数器特点" class="headerlink" title="1.1.1 高速计数器特点"></a>1.1.1 高速计数器特点</h4><p><img src="1%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E7%89%B9%E7%82%B9.png" alt></p><p><strong>图1-1：S7-200SMART高速计数器特点</strong></p><h4 id="1-1-2-高速计数功能HSC"><a href="#1-1-2-高速计数功能HSC" class="headerlink" title="1.1.2 高速计数功能HSC"></a>1.1.2 高速计数功能HSC</h4><p><img src="2%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E5%8A%9F%E8%83%BD.png" alt></p><p><strong>图1-2：S7-200SMART高速计数功能HSC</strong></p><h4 id="1-1-3-高速计数模式"><a href="#1-1-3-高速计数模式" class="headerlink" title="1.1.3 高速计数模式"></a>1.1.3 高速计数模式</h4><p><img src="3%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E8%AE%A1%E6%95%B0%E6%A8%A1%E5%BC%8F.png" alt></p><p><strong>图1-3：S7-200SMART高速计数模式</strong></p><h3 id="1-2-高速计数器步骤"><a href="#1-2-高速计数器步骤" class="headerlink" title="1.2 高速计数器步骤"></a>1.2 高速计数器步骤</h3><h4 id="1-2-1-高速计数器步骤"><a href="#1-2-1-高速计数器步骤" class="headerlink" title="1.2.1 高速计数器步骤"></a>1.2.1 高速计数器步骤</h4><p><img src="4%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E6%AD%A5%E9%AA%A41.png" alt></p><p><img src="5%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E6%AD%A5%E9%AA%A42.png" alt></p><p><img src="6%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E6%AD%A5%E9%AA%A43.png" alt></p><p><img src="7%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E6%AD%A5%E9%AA%A44.png" alt></p><p><strong>图1-4：S7-200SMART高速计数器一般步骤</strong></p><h4 id="1-2-2-高速计数器数字滤波"><a href="#1-2-2-高速计数器数字滤波" class="headerlink" title="1.2.2 高速计数器数字滤波"></a>1.2.2 高速计数器数字滤波</h4><p><img src="8%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E6%95%B0%E5%AD%97%E6%BB%A4%E6%B3%A2.png" alt></p><p><strong>图1-5：S7-200SMART高速计数器数字滤波</strong></p><h4 id="1-2-3-高速计数器计数模式"><a href="#1-2-3-高速计数器计数模式" class="headerlink" title="1.2.3 高速计数器计数模式"></a>1.2.3 高速计数器计数模式</h4><p><img src="10%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E6%A8%A1%E5%BC%8F1.png" alt></p><p><img src="11%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E6%A8%A1%E5%BC%8F2.png" alt></p><p><img src="12%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E6%A8%A1%E5%BC%8F3.png" alt></p><p><img src="13%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E6%A8%A1%E5%BC%8F4.png" alt></p><p><img src="14%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E6%A8%A1%E5%BC%8F5.png" alt></p><p><strong>图1-6：S7-200SMART高速计数器计数模式</strong></p><h2 id="二、编码器的应用"><a href="#二、编码器的应用" class="headerlink" title="二、编码器的应用"></a>二、编码器的应用</h2><h3 id="2-1-编码器概念"><a href="#2-1-编码器概念" class="headerlink" title="2.1 编码器概念"></a>2.1 编码器概念</h3><h4 id="2-1-1-编码器特点"><a href="#2-1-1-编码器特点" class="headerlink" title="2.1.1 编码器特点"></a>2.1.1 编码器特点</h4><p>![](15 高速计数编码器.png)</p><p><strong>图2-1：编码器特点</strong></p><h4 id="2-1-2-编码器分类"><a href="#2-1-2-编码器分类" class="headerlink" title="2.1.2 编码器分类"></a>2.1.2 编码器分类</h4><p><img src="16%E7%BC%96%E7%A0%81%E5%99%A8%E5%88%86%E7%B1%BB.png" alt></p><p><strong>图2-2：编码器分类</strong></p><h4 id="2-1-3-编码器应用"><a href="#2-1-3-编码器应用" class="headerlink" title="2.1.3 编码器应用"></a>2.1.3 编码器应用</h4><p><img src="17%E7%BC%96%E7%A0%81%E5%99%A8%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图2-3：编码器应用</strong></p><h4 id="2-1-4-高速计数编码器"><a href="#2-1-4-高速计数编码器" class="headerlink" title="2.1.4 高速计数编码器"></a>2.1.4 高速计数编码器</h4><p><img src="18%E9%AB%98%E9%80%9F%E8%AE%A1%E6%95%B0%E7%BC%96%E7%A0%81%E5%99%A8.png" alt></p><p><strong>图2-4：高速计数编码器</strong></p><h4 id="2-1-5-编码器接线图"><a href="#2-1-5-编码器接线图" class="headerlink" title="2.1.5 编码器接线图"></a>2.1.5 编码器接线图</h4><p><img src="19%E6%8E%A5%E7%BA%BF.png" alt></p><p><strong>图2-5：编码器接线图</strong></p><h4 id="2-1-6-编码器程序"><a href="#2-1-6-编码器程序" class="headerlink" title="2.1.6 编码器程序"></a>2.1.6 编码器程序</h4><p><img src="20%E7%BC%96%E7%A0%81%E5%99%A8%E7%A8%8B%E5%BA%8F.png" alt></p><p><strong>图2-6：编码器程序</strong></p><blockquote><p><strong>既见君子，我心则喜。 ——诗经</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> S7-S200 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A07】S7-200SMART之PID调节</title>
+      <link href="article/s7-200smart-zhi-pid-diao-jie/"/>
+      <url>article/s7-200smart-zhi-pid-diao-jie/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>五月鸣蜩，六月精阳。七月流火。 ——诗经</strong></p></blockquote><h2 id="一、PID调节知识"><a href="#一、PID调节知识" class="headerlink" title="一、PID调节知识"></a>一、PID调节知识</h2><h3 id="1-1-PID调节概述"><a href="#1-1-PID调节概述" class="headerlink" title="1.1 PID调节概述"></a>1.1 PID调节概述</h3><h4 id="1-1-1-PID调节概念"><a href="#1-1-1-PID调节概念" class="headerlink" title="1.1.1 PID调节概念"></a>1.1.1 PID调节概念</h4><p><img src="1pid%E8%B0%83%E8%8A%82%E6%A6%82%E5%BF%B5.png" alt></p><p><strong>图1-1：PID调节概念</strong></p><h4 id="1-1-2-PID控制原理图"><a href="#1-1-2-PID控制原理图" class="headerlink" title="1.1.2 PID控制原理图"></a>1.1.2 PID控制原理图</h4><p><img src="2pid%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E5%9B%BE.png" alt></p><p><strong>图1-2：PID控制原理图</strong></p><h4 id="1-1-3-PID调节典型算法"><a href="#1-1-3-PID调节典型算法" class="headerlink" title="1.1.3 PID调节典型算法"></a>1.1.3 PID调节典型算法</h4><p><img src="3pid%E8%B0%83%E8%8A%82%E7%AE%97%E6%B3%95.png" alt></p><p><strong>图1-3：PID调节典型算法</strong></p><h4 id="1-1-4-PID调节设定"><a href="#1-1-4-PID调节设定" class="headerlink" title="1.1.4 PID调节设定"></a>1.1.4 PID调节设定</h4><p><img src="4%E8%B0%83%E8%8A%82%E8%AE%BE%E5%AE%9A.png" alt></p><p><strong>图1-3：PID调节设定</strong></p><h3 id="1-2-PID案例"><a href="#1-2-PID案例" class="headerlink" title="1.2 PID案例"></a>1.2 PID案例</h3><h4 id="1-2-1-PID调节实验"><a href="#1-2-1-PID调节实验" class="headerlink" title="1.2.1 PID调节实验"></a>1.2.1 PID调节实验</h4><p><img src="5%E6%A1%88%E4%BE%8B%E6%81%92%E5%8E%8B%E4%BE%9B%E6%B0%B4.png" alt></p><p><img src="6%E6%8E%A5%E7%BA%BF%E5%9B%BE.png" alt></p><p><img src="7%E6%A8%A1%E6%8B%9F%E9%87%8F%E5%9C%B0%E5%9D%80%E5%88%86%E9%85%8D.png" alt></p><p><strong>图1-4：PID调节实验</strong></p><h4 id="1-2-2-PID调节过程"><a href="#1-2-2-PID调节过程" class="headerlink" title="1.2.2 PID调节过程"></a>1.2.2 PID调节过程</h4><p><img src="8%E6%A8%A1%E5%9D%97%E8%AE%BE%E7%BD%AE.png" alt></p><p><img src="9%E9%80%9A%E9%81%93%E8%AE%BE%E7%BD%AE.png" alt></p><p><img src="10pid.png" alt></p><p><img src="11%E6%8A%A5%E8%AD%A6%E5%90%AF%E5%8A%A8.png" alt></p><p><img src="12%E6%89%8B%E5%8A%A8%E6%8E%A7%E5%88%B6.png" alt></p><p><img src="13%E5%88%86%E9%85%8D.png" alt></p><p><img src="14%E7%A8%8B%E5%BA%8F%E6%8E%A7%E5%88%B6.png" alt></p><p><strong>图1-5：PID调节过程</strong></p><blockquote><p><strong>如月之恒，如日之升。如南山之寿，不骞不崩。如松柏之茂，无不尔或承。 ——诗经 《小雅》</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> S7-S200 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A06】S7-200SMART模拟量</title>
+      <link href="article/s7-200smart-mo-ni-liang/"/>
+      <url>article/s7-200smart-mo-ni-liang/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>蒹葭苍苍，白露为霜。所谓伊人，在水一方。 ——诗经 《国风·秦风·蒹葭》</strong></p></blockquote><h2 id="一、S7-200SMART模拟量概念"><a href="#一、S7-200SMART模拟量概念" class="headerlink" title="一、S7-200SMART模拟量概念"></a>一、S7-200SMART模拟量概念</h2><h3 id="1-1-模拟量知识"><a href="#1-1-模拟量知识" class="headerlink" title="1.1 模拟量知识"></a>1.1 模拟量知识</h3><h4 id="1-1-1-模拟量简述"><a href="#1-1-1-模拟量简述" class="headerlink" title="1.1.1 模拟量简述"></a>1.1.1 模拟量简述</h4><p><img src="1%E6%A8%A1%E6%8B%9F%E9%87%8F%E6%A6%82%E8%BF%B0.png" alt></p><p><strong>图1-1：模拟量简述</strong></p><h4 id="1-1-2-模拟量常用传感器"><a href="#1-1-2-模拟量常用传感器" class="headerlink" title="1.1.2 模拟量常用传感器"></a>1.1.2 模拟量常用传感器</h4><p><img src="2%E6%A8%A1%E6%8B%9F%E9%87%8F%E5%B8%B8%E7%94%A8%E4%BC%A0%E6%84%9F%E5%99%A8.png" alt></p><p><strong>图1-2：模拟量常用传感器</strong></p><h4 id="1-1-3-温度变送器"><a href="#1-1-3-温度变送器" class="headerlink" title="1.1.3 温度变送器"></a>1.1.3 温度变送器</h4><p><img src="3%E4%BC%A0%E6%84%9F%E5%99%A8%E5%8F%98%E9%80%81%E5%99%A8.png" alt></p><p><strong>图1-3：模拟量常用温度变送器</strong></p><h3 id="1-2-模拟量转换模块"><a href="#1-2-模拟量转换模块" class="headerlink" title="1.2 模拟量转换模块"></a>1.2 模拟量转换模块</h3><h4 id="1-2-1-模拟量模块（A-D模块、D-A模块）"><a href="#1-2-1-模拟量模块（A-D模块、D-A模块）" class="headerlink" title="1.2.1 模拟量模块（A/D模块、D/A模块）"></a>1.2.1 模拟量模块（A/D模块、D/A模块）</h4><p><img src="4%E6%A8%A1%E6%8B%9F%E9%87%8F%E6%A8%A1%E5%9D%97.png" alt></p><p><strong>图1-4：模拟量转换模块</strong></p><h4 id="1-2-2-模拟量处理过程"><a href="#1-2-2-模拟量处理过程" class="headerlink" title="1.2.2 模拟量处理过程"></a>1.2.2 模拟量处理过程</h4><p><img src="5%E6%A8%A1%E6%8B%9F%E9%87%8F%E5%A4%84%E7%90%86%E8%BF%87%E7%A8%8B.png" alt></p><p><strong>图1-5：PLC处理模拟量过程</strong></p><h2 id="二、模拟量模块"><a href="#二、模拟量模块" class="headerlink" title="二、模拟量模块"></a>二、模拟量模块</h2><h3 id="2-1-模拟量常用模块"><a href="#2-1-模拟量常用模块" class="headerlink" title="2.1 模拟量常用模块"></a>2.1 模拟量常用模块</h3><h4 id="2-1-1-输入模块-EM-AE04"><a href="#2-1-1-输入模块-EM-AE04" class="headerlink" title="2.1.1 输入模块 EM AE04"></a>2.1.1 输入模块 EM AE04</h4><p><img src="6%E8%BE%93%E5%85%A5%E6%A8%A1%E5%9D%97EMAE04.png" alt></p><p><img src="7%E6%A8%A1%E5%9D%97%E7%BB%84%E6%80%81.png" alt></p><p><strong>图2-1：模拟量输入模块EM AE04参数</strong></p><h4 id="2-1-2-输出模块-EM-AQ02"><a href="#2-1-2-输出模块-EM-AQ02" class="headerlink" title="2.1.2 输出模块 EM AQ02"></a>2.1.2 输出模块 EM AQ02</h4><p><img src="8%E8%BE%93%E5%87%BA%E6%A8%A1%E5%9D%97EMAQ02.png" alt></p><p><img src="9%E7%BB%84%E6%80%81%E6%A8%A1%E5%9D%97.png" alt></p><p><strong>图2-2：模拟量输出模块EM AQ02参数</strong></p><h4 id="2-1-3-输入-输出模块-EM-AM03"><a href="#2-1-3-输入-输出模块-EM-AM03" class="headerlink" title="2.1.3 输入/输出模块 EM AM03"></a>2.1.3 输入/输出模块 EM AM03</h4><p><img src="10%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E6%A8%A1%E5%9D%97EMAM03.png" alt></p><p><img src="11%E6%8E%A5%E7%BA%BF%E5%9B%BE.png" alt></p><p><strong>图2-3：模拟量输入/输出模块EM AM03参数</strong></p><h4 id="2-1-4-热电阻输入模块-EM-AR02"><a href="#2-1-4-热电阻输入模块-EM-AR02" class="headerlink" title="2.1.4 热电阻输入模块 EM AR02"></a>2.1.4 热电阻输入模块 EM AR02</h4><p><img src="12%E7%83%AD%E7%94%B5%E9%98%BB%E8%BE%93%E5%85%A5%E6%A8%A1%E5%9D%97.png" alt></p><p><img src="13%E7%83%AD%E7%94%B5%E9%98%BB%E6%8E%A5%E7%BA%BF%E5%9B%BE.png" alt></p><p><img src="14%E7%83%AD%E7%94%B5%E9%98%BB%E6%A8%A1%E5%9D%97.png" alt></p><p><strong>图2-4：热电阻输入模块EM AR02参数</strong></p><h4 id="2-1-5-热电偶输入模块-EM-AT04-（高温环境）"><a href="#2-1-5-热电偶输入模块-EM-AT04-（高温环境）" class="headerlink" title="2.1.5 热电偶输入模块 EM AT04 （高温环境）"></a>2.1.5 热电偶输入模块 EM AT04 （高温环境）</h4><p><img src="15EMAT04%E6%A8%A1%E5%9D%97.png" alt></p><p><img src="16%E7%BB%84%E6%80%81EMAT04.png" alt></p><p><strong>图2-5：热电阻输入模块EM AR02参数</strong></p><h3 id="2-2-模拟量地址分配"><a href="#2-2-模拟量地址分配" class="headerlink" title="2.2 模拟量地址分配"></a>2.2 模拟量地址分配</h3><h4 id="2-2-1-模拟量地址分配"><a href="#2-2-1-模拟量地址分配" class="headerlink" title="2.2.1 模拟量地址分配"></a>2.2.1 模拟量地址分配</h4><p><img src="17%E6%A8%A1%E6%8B%9F%E9%87%8F%E5%9C%B0%E5%9D%80%E5%88%86%E9%85%8D.png" alt></p><p><strong>图2-6：模拟量地址分配</strong></p><h4 id="2-2-2-温度变送器与模拟量输入接线图"><a href="#2-2-2-温度变送器与模拟量输入接线图" class="headerlink" title="2.2.2 温度变送器与模拟量输入接线图"></a>2.2.2 温度变送器与模拟量输入接线图</h4><p><img src="18%E6%B8%A9%E5%BA%A6%E5%8F%98%E9%80%81%E4%B8%8E%E6%A8%A1%E6%8B%9F%E9%87%8F%E8%BE%93%E5%85%A5%E6%8E%A5%E7%BA%BF.png" alt></p><p><strong>图2-7：温度变送器与模拟量输入接线图</strong></p><h4 id="2-2-3-压力传感器与模拟量输入接线图"><a href="#2-2-3-压力传感器与模拟量输入接线图" class="headerlink" title="2.2.3 压力传感器与模拟量输入接线图"></a>2.2.3 压力传感器与模拟量输入接线图</h4><p><img src="19%E5%8E%8B%E5%8A%9B%E5%8F%98%E9%80%81%E5%99%A8%E4%B8%8E%E6%A8%A1%E6%8B%9F%E9%87%8F.png" alt></p><p><img src="20%E4%B8%89%E7%BA%BF%E5%88%B6%E5%8E%8B%E5%8A%9B%E5%8F%98%E9%80%81%E5%99%A8.png" alt></p><p><strong>图2-8：压力传感器与模拟量输入接线图</strong></p><h2 id="三、模拟量数字量转换"><a href="#三、模拟量数字量转换" class="headerlink" title="三、模拟量数字量转换"></a>三、模拟量数字量转换</h2><h3 id="3-1-对应关系"><a href="#3-1-对应关系" class="headerlink" title="3.1 对应关系"></a>3.1 对应关系</h3><h4 id="3-1-1-模拟量输入模块"><a href="#3-1-1-模拟量输入模块" class="headerlink" title="3.1.1 模拟量输入模块"></a>3.1.1 模拟量输入模块</h4><p><img src="21%E6%A8%A1%E6%8B%9F%E9%87%8F%E8%BE%93%E5%85%A5%E6%A8%A1%E5%9D%97.png" alt></p><p><strong>图3-1：模拟量输入模块与数字量</strong></p><h4 id="3-1-1-模拟量输出模块"><a href="#3-1-1-模拟量输出模块" class="headerlink" title="3.1.1 模拟量输出模块"></a>3.1.1 模拟量输出模块</h4><p><img src="22%E6%A8%A1%E6%8B%9F%E9%87%8F%E8%BE%93%E5%87%BA%E6%A8%A1%E5%9D%97.png" alt></p><p><strong>图3-2：模拟量输出模块与数字量</strong></p><h2 id="四、模拟量案例"><a href="#四、模拟量案例" class="headerlink" title="四、模拟量案例"></a>四、模拟量案例</h2><h3 id="4-1-温度读取"><a href="#4-1-温度读取" class="headerlink" title="4.1 温度读取"></a>4.1 温度读取</h3><h4 id="4-1-1-PT100读取当前温度"><a href="#4-1-1-PT100读取当前温度" class="headerlink" title="4.1.1 PT100读取当前温度"></a>4.1.1 PT100读取当前温度</h4><p><img src="23%E6%A8%A1%E6%8B%9F%E9%87%8F%E9%87%87%E9%9B%86%E8%BD%AC%E6%8D%A2%E6%A1%88%E4%BE%8B.png" alt></p><p><img src="23%E7%A8%8B%E5%BA%8F%E8%BF%90%E8%A1%8C.png" alt></p><p><strong>图4-1：温度读取</strong></p><h4 id="4-1-2-PTJ410读取当前压力"><a href="#4-1-2-PTJ410读取当前压力" class="headerlink" title="4.1.2 PTJ410读取当前压力"></a>4.1.2 PTJ410读取当前压力</h4><p><img src="24%E9%87%87%E5%8F%96%E5%BD%93%E5%89%8D%E5%8E%8B%E5%8A%9B.png" alt></p><p><img src="25%E6%A8%A1%E6%8B%9F%E9%87%8F%E4%B8%8E%E6%95%B0%E5%AD%97%E9%87%8F%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB.png" alt></p><p><img src="26EMAM03%E7%BB%84%E6%80%81.png" alt></p><p><img src="27%E5%8E%8B%E5%8A%9B%E8%AF%BB%E5%8F%96%E7%A8%8B%E5%BA%8F.png" alt></p><p><strong>图4-2：压力读取</strong></p><blockquote><p><strong>今夕何夕，见此良人？子兮子兮，如此良人何？ ——诗经 《诗经·唐风·绸缪》</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> S7-S200 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A05】S7-200SMART中断子程序</title>
+      <link href="article/s7-200smart-zhong-duan-zi-cheng-xu/"/>
+      <url>article/s7-200smart-zhong-duan-zi-cheng-xu/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>知我者，谓我心忧；不知我者，谓我何求。 ——诗经 《黍离》</strong></p></blockquote><h2 id="一、S7-200SMART子程序"><a href="#一、S7-200SMART子程序" class="headerlink" title="一、S7-200SMART子程序"></a>一、S7-200SMART子程序</h2><h3 id="1-1-子程序的使用"><a href="#1-1-子程序的使用" class="headerlink" title="1.1 子程序的使用"></a>1.1 子程序的使用</h3><h4 id="1-1-1-子程序作用"><a href="#1-1-1-子程序作用" class="headerlink" title="1.1.1 子程序作用"></a>1.1.1 子程序作用</h4><p><img src="1%E5%AD%90%E7%A8%8B%E5%BA%8F%E7%9A%84%E4%BD%9C%E7%94%A8.png" alt></p><p><strong>图1-1：S7-200SMART子程序作用</strong></p><h4 id="1-1-2-子程序架构"><a href="#1-1-2-子程序架构" class="headerlink" title="1.1.2 子程序架构"></a>1.1.2 子程序架构</h4><p><img src="2%E5%AD%90%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%B6%E6%9E%84.png" alt></p><p><strong>图1-2：S7-200SMART子程序架构</strong></p><h4 id="1-1-3-子程序的编写方式"><a href="#1-1-3-子程序的编写方式" class="headerlink" title="1.1.3 子程序的编写方式"></a>1.1.3 子程序的编写方式</h4><p><img src="3%E5%AD%90%E7%A8%8B%E5%BA%8F%E7%9A%84%E7%BC%96%E5%86%99%E6%96%B9%E5%BC%8F.png" alt></p><p><strong>图1-3：S7-200SMART子程序架构</strong></p><h4 id="1-1-4-子程序的注意事项"><a href="#1-1-4-子程序的注意事项" class="headerlink" title="1.1.4 子程序的注意事项"></a>1.1.4 子程序的注意事项</h4><p><img src="4%E5%AD%90%E7%A8%8B%E5%BA%8F%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.png" alt></p><p><strong>图1-4：S7-200SMART子程序注意事项</strong></p><h2 id="二、S7-200SMART中断程序"><a href="#二、S7-200SMART中断程序" class="headerlink" title="二、S7-200SMART中断程序"></a>二、S7-200SMART中断程序</h2><h3 id="2-1-中断程序的使用"><a href="#2-1-中断程序的使用" class="headerlink" title="2.1 中断程序的使用"></a>2.1 中断程序的使用</h3><h4 id="2-1-1-中断程序的概念"><a href="#2-1-1-中断程序的概念" class="headerlink" title="2.1.1 中断程序的概念"></a>2.1.1 中断程序的概念</h4><p><img src="5%E4%B8%AD%E6%96%AD%E7%A8%8B%E5%BA%8F.png" alt></p><p><strong>图2-1：S7-200SMART中断程序概念</strong></p><h4 id="2-1-2-中断事件"><a href="#2-1-2-中断事件" class="headerlink" title="2.1.2 中断事件"></a>2.1.2 中断事件</h4><p><img src="6%E4%B8%AD%E6%96%AD%E4%BA%8B%E4%BB%B6.png" alt></p><p><img src="7%E4%B8%AD%E6%96%AD%E4%BA%8B%E4%BB%B6%E5%88%97%E8%A1%A8.png" alt></p><p><strong>图2-2：S7-200SMART中断事件</strong></p><h4 id="2-1-3-中断指令及程序编写"><a href="#2-1-3-中断指令及程序编写" class="headerlink" title="2.1.3 中断指令及程序编写"></a>2.1.3 中断指令及程序编写</h4><p><img src="8%E4%B8%AD%E6%96%AD%E6%8C%87%E4%BB%A4%E5%8F%8A%E4%B8%AD%E6%96%AD%E7%A8%8B%E5%BA%8F.png" alt></p><p><img src="9%E4%B8%AD%E6%96%AD%E5%AE%9E%E4%BE%8B.png" alt></p><p><strong>图2-3：S7-200SMART中断程序</strong></p><h4 id="2-1-4-中断程序的注意事项"><a href="#2-1-4-中断程序的注意事项" class="headerlink" title="2.1.4 中断程序的注意事项"></a>2.1.4 中断程序的注意事项</h4><p><img src="10%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.png" alt></p><p><strong>图2-4：S7-200SMART中断程序注意事项</strong></p><p><img src="011.png" alt></p><p><strong>图2-5：S7-200SMART中断程序调用示例</strong></p><blockquote><p><strong>死生契阔，与子成说。执子之手，与子偕老。 ——诗经 《邶风击鼓》</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> S7-S200 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A04】S7-200SMART进阶指令</title>
+      <link href="article/s7-200smart-jin-jie-zhi-ling/"/>
+      <url>article/s7-200smart-jin-jie-zhi-ling/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>吾生也有涯，而知也无涯。以有涯随无涯，殆已；已而为知者，殆而已矣。 ——庄子 《养生主》</strong></p></blockquote><h2 id="一、S7-200SMART进阶指令"><a href="#一、S7-200SMART进阶指令" class="headerlink" title="一、S7-200SMART进阶指令"></a>一、S7-200SMART进阶指令</h2><h3 id="1-1-S7-200-SMART-比较指令"><a href="#1-1-S7-200-SMART-比较指令" class="headerlink" title="1.1 S7-200 SMART 比较指令"></a>1.1 S7-200 SMART 比较指令</h3><h4 id="1-1-1-比较指令"><a href="#1-1-1-比较指令" class="headerlink" title="1.1.1 比较指令"></a>1.1.1 比较指令</h4><p><img src="1S7-200SMART%E6%AF%94%E8%BE%83%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-1：S7-200SMART比较指令</strong></p><h4 id="1-1-2-比较指令喷泉案例"><a href="#1-1-2-比较指令喷泉案例" class="headerlink" title="1.1.2 比较指令喷泉案例"></a>1.1.2 比较指令喷泉案例</h4><p><img src="2%E6%AF%94%E8%BE%83%E6%8C%87%E4%BB%A4%E8%81%94%E7%B3%BB%E5%96%B7%E6%B3%89%E6%A1%88%E4%BE%8B.png" alt></p><p><strong>图1-2：S7-200SMART比较指令</strong></p><p><strong>本案例只作为比较指令的用法。实际使用需要更精确及考虑周全。</strong></p><h3 id="1-2-进阶指令"><a href="#1-2-进阶指令" class="headerlink" title="1.2 进阶指令"></a>1.2 进阶指令</h3><h4 id="1-2-1-数据传送指令"><a href="#1-2-1-数据传送指令" class="headerlink" title="1.2.1 数据传送指令"></a>1.2.1 数据传送指令</h4><p><img src="3S7-200SMART%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%81%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-3：S7-200SMART 数据传送指令</strong></p><h4 id="1-2-2-数据转换指令"><a href="#1-2-2-数据转换指令" class="headerlink" title="1.2.2 数据转换指令"></a>1.2.2 数据转换指令</h4><p><img src="4S7-200SMART%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%8D%A2%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-4：S7-200SMART 数据转换指令</strong></p><h4 id="1-2-3-整数运算指令及应用"><a href="#1-2-3-整数运算指令及应用" class="headerlink" title="1.2.3 整数运算指令及应用"></a>1.2.3 整数运算指令及应用</h4><p><img src="5S7-200SMART%E6%95%B4%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图1-5：S7-200SMART 整数运算指令及应用</strong></p><p><img src="6S7-200SMART%E6%95%B4%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E7%A4%BA%E4%BE%8B.png" alt></p><p><strong>图1-6：S7-200SMART 整数运算指令示例</strong></p><h4 id="1-2-4-浮点数四则运算指令及应用"><a href="#1-2-4-浮点数四则运算指令及应用" class="headerlink" title="1.2.4 浮点数四则运算指令及应用"></a>1.2.4 浮点数四则运算指令及应用</h4><p><img src="7S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图1-7：S7-200SMART 浮点数四则运算指令及应用</strong></p><p><img src="8S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-8：S7-200SMART 浮点数四则运算指令及应用示例</strong></p><h4 id="1-2-5-浮点数三角函数运算指令"><a href="#1-2-5-浮点数三角函数运算指令" class="headerlink" title="1.2.5 浮点数三角函数运算指令"></a>1.2.5 浮点数三角函数运算指令</h4><p><img src="9S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E7%A4%BA%E4%BE%8B.png" alt></p><p><img src="10S7-200SMART%E6%B5%AE%E7%82%B9%E6%95%B0%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B.png" alt></p><p><strong>图1-9：S7-200SMART 浮点数三角函数运算指令</strong></p><h4 id="1-2-6-移位指令"><a href="#1-2-6-移位指令" class="headerlink" title="1.2.6 移位指令"></a>1.2.6 移位指令</h4><p><img src="11S7-200SMART%E7%A7%BB%E4%BD%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><img src="12S7-200SMART%E7%A7%BB%E4%BD%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-10：S7-200SMART 移位指令</strong></p><blockquote><p><strong>朴素而天下莫能与之争美。 ——庄子 《庄子·天道》</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> 进阶指令 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A03】S7-200SMART数据结构</title>
+      <link href="article/s7-200smart-shu-ju-jie-gou/"/>
+      <url>article/s7-200smart-shu-ju-jie-gou/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>君子之交淡若水，小人之交甘若醴；君子淡以亲，小人甘以绝。 ——庄周</strong></p></blockquote><h2 id="一、S7-200-SMART数据结构"><a href="#一、S7-200-SMART数据结构" class="headerlink" title="一、S7-200 SMART数据结构"></a>一、S7-200 SMART数据结构</h2><h3 id="1-1-数据结构"><a href="#1-1-数据结构" class="headerlink" title="1.1 数据结构"></a>1.1 数据结构</h3><h4 id="1-1-1-数据寄存器及范围"><a href="#1-1-1-数据寄存器及范围" class="headerlink" title="1.1.1 数据寄存器及范围"></a>1.1.1 数据寄存器及范围</h4><p><img src="1S7-200SMART%E7%9A%84%E6%95%B0%E6%8D%AE%E5%AF%84%E5%AD%98%E5%99%A8%E5%8F%8A%E8%8C%83%E5%9B%B4.png" alt></p><p><strong>图1-1：S7-200SMART的数据寄存器及范围</strong></p><h4 id="1-1-2-数据类型及结构"><a href="#1-1-2-数据类型及结构" class="headerlink" title="1.1.2 数据类型及结构"></a>1.1.2 数据类型及结构</h4><p><img src="2S7-200SMART%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E7%BB%93%E6%9E%84.png" alt></p><p><strong>图1-2：S7-200SMART的数据类型及结构</strong></p><pre class="line-numbers language-txt"><code class="language-txt">字母代表的数据类型：I Q M    位（0或1）B        字节 W        字D        双字R        实数<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="1-1-3-数据存储结构"><a href="#1-1-3-数据存储结构" class="headerlink" title="1.1.3 数据存储结构"></a>1.1.3 数据存储结构</h4><p><img src="3S7-200SMART%E7%9A%84%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84.png" alt></p><p><img src="4S7-200SMART%E7%9A%84%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%842.png" alt></p><p><strong>图1-3：S7-200SMART的数据存储结构</strong></p><h4 id="1-1-4-V区数据排列方式"><a href="#1-1-4-V区数据排列方式" class="headerlink" title="1.1.4 V区数据排列方式"></a>1.1.4 V区数据排列方式</h4><p><img src="5S7-200SMART%E7%9A%84V%E5%8C%BA%E5%86%85%E9%83%A8%E6%95%B0%E6%8D%AE%E6%8E%92%E5%88%97%E6%96%B9%E5%BC%8F.png" alt></p><p><strong>图1-4：S7-200SMART的V区内部数据排列方式</strong></p><h4 id="1-1-5-数据存储范围及符号位说明"><a href="#1-1-5-数据存储范围及符号位说明" class="headerlink" title="1.1.5 数据存储范围及符号位说明"></a>1.1.5 数据存储范围及符号位说明</h4><p><img src="16%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E8%8C%83%E5%9B%B4%E5%8F%8A%E7%AC%A6%E5%8F%B7%E4%BD%8D%E8%AF%B4%E6%98%8E.png" alt></p><p><strong>图1-5：数据存储范围及符号位说明</strong></p><h4 id="1-1-6-BCD码与十进制数之间的转换"><a href="#1-1-6-BCD码与十进制数之间的转换" class="headerlink" title="1.1.6 BCD码与十进制数之间的转换"></a>1.1.6 BCD码与十进制数之间的转换</h4><p><img src="15BCD%E7%A0%81%E4%B8%8E%E5%8D%81%E8%BF%9B%E5%88%B6%E6%95%B0%E4%B9%8B%E9%97%B4%E7%9A%84%E8%BD%AC%E6%8D%A2.png" alt></p><p><strong>图1-6：BCD码与十进制数之间的转换</strong></p><h2 id="二、进制转换关系"><a href="#二、进制转换关系" class="headerlink" title="二、进制转换关系"></a>二、进制转换关系</h2><h3 id="2-1-进制转换"><a href="#2-1-进制转换" class="headerlink" title="2.1 进制转换"></a>2.1 进制转换</h3><h4 id="2-1-1-进制概念及进制相互转换"><a href="#2-1-1-进制概念及进制相互转换" class="headerlink" title="2.1.1 进制概念及进制相互转换"></a>2.1.1 进制概念及进制相互转换</h4><p><img src="6%E8%BF%9B%E5%88%B6%E6%A6%82%E5%BF%B5%E5%8F%8A%E8%BF%9B%E5%88%B6%E7%9B%B8%E4%BA%92%E8%BD%AC%E6%8D%A2.png" alt></p><p><strong>图2-1：进制概念及进制相互转换</strong></p><h4 id="2-1-2-二进制转十进制"><a href="#2-1-2-二进制转十进制" class="headerlink" title="2.1.2 二进制转十进制"></a>2.1.2 二进制转十进制</h4><p><img src="7%E4%BA%8C%E8%BF%9B%E5%88%B6%E8%BD%AC%E5%8D%81%E8%BF%9B%E5%88%B6.png" alt></p><p><strong>图2-2：二进制转十进制</strong></p><h4 id="2-1-3-十进制转二进制"><a href="#2-1-3-十进制转二进制" class="headerlink" title="2.1.3 十进制转二进制"></a>2.1.3 十进制转二进制</h4><p><img src="8%E5%8D%81%E8%BF%9B%E5%88%B6%E8%BD%AC%E4%BA%8C%E8%BF%9B%E5%88%B6.png" alt></p><p><strong>图2-3：十进制转二进制</strong></p><h4 id="2-1-4-二进制转八进制"><a href="#2-1-4-二进制转八进制" class="headerlink" title="2.1.4 二进制转八进制"></a>2.1.4 二进制转八进制</h4><p><img src="9%E4%BA%8C%E8%BF%9B%E5%88%B6%E8%BD%AC%E5%85%AB%E8%BF%9B%E5%88%B6.png" alt></p><p><strong>图2-4：二进制转八进制</strong></p><h4 id="2-1-5-八进制转二进制"><a href="#2-1-5-八进制转二进制" class="headerlink" title="2.1.5 八进制转二进制"></a>2.1.5 八进制转二进制</h4><p><img src="10%E5%85%AB%E8%BF%9B%E5%88%B6%E8%BD%AC%E4%BA%8C%E8%BF%9B%E5%88%B6.png" alt></p><p><strong>图2-5：八进制转二进制</strong></p><h4 id="2-1-6-二进制转十六进制"><a href="#2-1-6-二进制转十六进制" class="headerlink" title="2.1.6 二进制转十六进制"></a>2.1.6 二进制转十六进制</h4><p><img src="11%E4%BA%8C%E8%BF%9B%E5%88%B6%E8%BD%AC%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6.png" alt></p><p><strong>图2-6：二进制转十六进制</strong></p><h4 id="2-1-7-十六进制转二进制"><a href="#2-1-7-十六进制转二进制" class="headerlink" title="2.1.7 十六进制转二进制"></a>2.1.7 十六进制转二进制</h4><p><img src="12%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E8%BD%AC%E4%BA%8C%E8%BF%9B%E5%88%B6.png" alt></p><p><strong>图2-7：十六进制转二进制</strong></p><h4 id="2-1-8-十进制转八进制或十六进制"><a href="#2-1-8-十进制转八进制或十六进制" class="headerlink" title="2.1.8 十进制转八进制或十六进制"></a>2.1.8 十进制转八进制或十六进制</h4><p><img src="13%E5%8D%81%E8%BF%9B%E5%88%B6%E8%BD%AC%E5%85%AB%E8%BF%9B%E5%88%B6%E6%88%96%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6.png" alt></p><p><strong>图2-8：十进制转八进制或十六进制</strong></p><h4 id="2-1-9-二进制转十进制"><a href="#2-1-9-二进制转十进制" class="headerlink" title="2.1.9 二进制转十进制"></a>2.1.9 二进制转十进制</h4><p><img src="14%E5%85%AB%E8%BF%9B%E5%88%B6%E6%88%96%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E8%BD%AC%E5%8D%81%E8%BF%9B%E5%88%B6.png" alt></p><p><strong>图2-9：八进制或十六进制转十进制</strong></p><blockquote><p><strong>井蛙不可以语于海者，拘于虚也；夏虫不可以语于冰者，笃于时也；曲士不可以语于道者，束于教也。 ——庄子 《秋水》</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数据结构 </tag>
+            
+            <tag> 进制转换 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A02】S7-200SMART基础指令</title>
+      <link href="article/s7-200smart-ji-chu-zhi-ling/"/>
+      <url>article/s7-200smart-ji-chu-zhi-ling/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>来世不可待，往世不可追也。 ——庄子 《庄子·人世间》</strong></p></blockquote><h2 id="一、S7-200-SMART-操作指令"><a href="#一、S7-200-SMART-操作指令" class="headerlink" title="一、S7-200 SMART 操作指令"></a>一、S7-200 SMART 操作指令</h2><h3 id="1-1-基础指令"><a href="#1-1-基础指令" class="headerlink" title="1.1 基础指令"></a>1.1 基础指令</h3><h4 id="1-1-1-常开、常闭、线圈"><a href="#1-1-1-常开、常闭、线圈" class="headerlink" title="1.1.1 常开、常闭、线圈"></a>1.1.1 常开、常闭、线圈</h4><p><img src="1%E5%B8%B8%E5%BC%80%E5%B8%B8%E9%97%AD%E4%B8%8E%E7%BA%BF%E5%9C%88.png" alt></p><p><strong>图1-1：程序中的常开、常闭、线圈</strong></p><h4 id="1-1-2-上升沿、下降沿指令"><a href="#1-1-2-上升沿、下降沿指令" class="headerlink" title="1.1.2 上升沿、下降沿指令"></a>1.1.2 上升沿、下降沿指令</h4><p><img src="2%E4%B8%8A%E5%8D%87%E6%B2%BF%E4%B8%8E%E4%B8%8B%E9%99%8D%E6%B2%BF.png" alt></p><p><strong>图1-2：程序中的上升沿与下降沿</strong></p><h4 id="1-1-3-置位、复位指令"><a href="#1-1-3-置位、复位指令" class="headerlink" title="1.1.3 置位、复位指令"></a>1.1.3 置位、复位指令</h4><p><img src="3%E7%BD%AE%E4%BD%8D%E5%A4%8D%E4%BD%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-3：程序中的置位与复位指令</strong></p><h4 id="1-1-4-取反指令"><a href="#1-1-4-取反指令" class="headerlink" title="1.1.4 取反指令"></a>1.1.4 取反指令</h4><p><img src="4%E5%8F%96%E5%8F%8D%E6%8C%87%E4%BB%A4.png" alt></p><p><strong>图1-4：程序中的取反指令</strong></p><h4 id="1-1-5-特殊继电器SM0-0-SM0-1"><a href="#1-1-5-特殊继电器SM0-0-SM0-1" class="headerlink" title="1.1.5 特殊继电器SM0.0 SM0.1"></a>1.1.5 特殊继电器SM0.0 SM0.1</h4><p><img src="5%E7%89%B9%E6%AE%8A%E7%BB%A7%E7%94%B5%E5%99%A8.png" alt></p><p><strong>图1-4：程序中的特殊继电器</strong></p><p><strong>还有其他特殊指令如:SM0.5等，具体根据实际情况使用。</strong></p><h2 id="二、PLC的工作原理"><a href="#二、PLC的工作原理" class="headerlink" title="二、PLC的工作原理"></a>二、PLC的工作原理</h2><h3 id="2-1工作原理示意图"><a href="#2-1工作原理示意图" class="headerlink" title="2.1工作原理示意图"></a>2.1工作原理示意图</h3><p><img src="6PLC%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.png" alt></p><p><strong>图2-1：PLC工作原理图</strong></p><h2 id="三、PLC程序控制"><a href="#三、PLC程序控制" class="headerlink" title="三、PLC程序控制"></a>三、PLC程序控制</h2><h3 id="3-1-PLC中的定时器"><a href="#3-1-PLC中的定时器" class="headerlink" title="3.1 PLC中的定时器"></a>3.1 PLC中的定时器</h3><h4 id="3-1-1-定时器指令及应用"><a href="#3-1-1-定时器指令及应用" class="headerlink" title="3.1.1 定时器指令及应用"></a>3.1.1 定时器指令及应用</h4><p><img src="7%E5%AE%9A%E6%97%B6%E5%99%A8%E6%8C%87%E4%BB%A4%E5%8F%8A%E5%BA%94%E7%94%A8.png" alt></p><p><strong>图3-1：定时器指令及应用</strong></p><h4 id="3-1-2-定时器指令及应用"><a href="#3-1-2-定时器指令及应用" class="headerlink" title="3.1.2 定时器指令及应用"></a>3.1.2 定时器指令及应用</h4><p><img src="8%E5%AE%9A%E6%97%B6%E5%99%A8%E7%B1%BB%E5%9E%8B%E5%8F%8A%E7%BC%96%E5%8F%B7.png" alt></p><p><strong>图3-2：定时器类型及编号</strong></p><h4 id="3-1-3-接通延时定时器TON"><a href="#3-1-3-接通延时定时器TON" class="headerlink" title="3.1.3 接通延时定时器TON"></a>3.1.3 接通延时定时器TON</h4><p><img src="9%E6%8E%A5%E9%80%9A%E5%BB%B6%E6%97%B6%E5%AE%9A%E6%97%B6TON.png" alt></p><p><strong>图3-3：接通延时定时TON</strong></p><h4 id="3-1-4-关断延时定时器TOF"><a href="#3-1-4-关断延时定时器TOF" class="headerlink" title="3.1.4 关断延时定时器TOF"></a>3.1.4 关断延时定时器TOF</h4><p><img src="10%E5%85%B3%E6%96%AD%E5%BB%B6%E6%97%B6%E5%AE%9A%E6%97%B6%E5%99%A8TOF.png" alt></p><p><strong>图3-4：关断延时定时TOF</strong></p><h4 id="3-1-5-记忆接通延时定时器TONR"><a href="#3-1-5-记忆接通延时定时器TONR" class="headerlink" title="3.1.5 记忆接通延时定时器TONR"></a>3.1.5 记忆接通延时定时器TONR</h4><p><img src="11%E8%AE%B0%E5%BF%86%E6%8E%A5%E9%80%9A%E5%BB%B6%E6%97%B6%E5%AE%9A%E6%97%B6%E5%99%A8TONR.png" alt></p><p><strong>图3-5：记忆接通延时定时器TONR</strong></p><h3 id="3-2-PLC中的计数器"><a href="#3-2-PLC中的计数器" class="headerlink" title="3.2 PLC中的计数器"></a>3.2 PLC中的计数器</h3><h4 id="3-2-1-增计数器CTU"><a href="#3-2-1-增计数器CTU" class="headerlink" title="3.2.1 增计数器CTU"></a>3.2.1 增计数器CTU</h4><p><img src="12%E5%A2%9E%E8%AE%A1%E6%95%B0%E5%99%A8CTU.png" alt></p><p><strong>图3-6：增计数器CTU</strong></p><h4 id="3-2-2-减计数器CTD"><a href="#3-2-2-减计数器CTD" class="headerlink" title="3.2.2 减计数器CTD"></a>3.2.2 减计数器CTD</h4><p><img src="13%E5%87%8F%E8%AE%A1%E6%95%B0%E5%99%A8CTD.png" alt></p><p><strong>图3-7：减计数器CTD</strong></p><h4 id="3-2-3-增减计数器CTUD"><a href="#3-2-3-增减计数器CTUD" class="headerlink" title="3.2.3 增减计数器CTUD"></a>3.2.3 增减计数器CTUD</h4><p><img src="14%E5%A2%9E%E5%87%8F%E8%AE%A1%E6%95%B0%E5%99%A8CTUD.png" alt></p><p><strong>图3-8：增减计数器CTUD</strong></p><h2 id="四、PLC程序案例"><a href="#四、PLC程序案例" class="headerlink" title="四、PLC程序案例"></a>四、PLC程序案例</h2><h3 id="4-1-PLC简单程序"><a href="#4-1-PLC简单程序" class="headerlink" title="4.1 PLC简单程序"></a>4.1 PLC简单程序</h3><h4 id="4-1-1-起保停程序"><a href="#4-1-1-起保停程序" class="headerlink" title="4.1.1 起保停程序"></a>4.1.1 起保停程序</h4><p><img src="15%E8%B5%B7%E4%BF%9D%E5%81%9C%E7%A8%8B%E5%BA%8F.png" alt></p><p><strong>图4-1：PLC程序起保停</strong></p><h4 id="4-1-2-电机正停正启"><a href="#4-1-2-电机正停正启" class="headerlink" title="4.1.2 电机正停正启"></a>4.1.2 电机正停正启</h4><p><img src="16%E6%AD%A3%E5%81%9C%E6%AD%A3%E5%90%AF%E5%8F%8D%E5%81%9C%E5%8F%8D%E5%90%AF1.png" alt></p><p><img src="17%E6%AD%A3%E5%81%9C%E6%AD%A3%E5%90%AF%E5%8F%8D%E5%81%9C%E5%8F%8D%E5%90%AF2.png" alt></p><p><strong>图4-2：PLC程序电机正停正启反停反启</strong></p><blockquote><p><strong>相视而笑，莫逆于心。 ——庄子 《大宗师》</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> S7-S200 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A01】认识S7-200SMART</title>
+      <link href="article/ren-shi-s7-200smart/"/>
+      <url>article/ren-shi-s7-200smart/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>人生天地之间，若白驹过隙，忽然而已。 ——庄子 《知北游》</strong></p></blockquote><h2 id="一、西门子S7-200SMART基础"><a href="#一、西门子S7-200SMART基础" class="headerlink" title="一、西门子S7-200SMART基础"></a>一、西门子S7-200SMART基础</h2><h3 id="1-1-S7-200-SMART-组成"><a href="#1-1-S7-200-SMART-组成" class="headerlink" title="1.1 S7-200 SMART 组成"></a>1.1 S7-200 SMART 组成</h3><h4 id="1-1-1-S7-200SMART的特点"><a href="#1-1-1-S7-200SMART的特点" class="headerlink" title="1.1.1 S7-200SMART的特点"></a>1.1.1 S7-200SMART的特点</h4><p><img src="1%E6%89%A9%E5%B1%95%E6%A8%A1%E5%9D%97.png" alt></p><p><strong>图1-1：S7-200SMART扩展模块的参数</strong></p><p><img src="2%E6%89%A9%E5%B1%95%E4%BF%A1%E5%8F%B7%E6%9D%BF.png" alt></p><p><strong>图1-2：S7-200SMART扩展信号板的参数</strong></p><p><img src="3%E9%9B%86%E6%88%90%E4%BB%A5%E5%A4%AA%E7%BD%91%E5%8F%A3%E4%B8%8ERS485%E4%B8%B2%E5%8F%A3.png" alt></p><p><strong>图1-3：S7-200SMART集成以太网口和RS485串口</strong></p><p><img src="4%E4%B8%89%E8%BD%B4%E8%84%89%E5%86%B2%E8%BE%93%E5%87%BA%E7%AB%AF.png" alt></p><p><strong>图1-4：S7-200SMART三轴脉冲输出端</strong></p><pre class="line-numbers language-txt"><code class="language-txt">CPU本体三轴脉冲输出端：Q0.0Q0.1Q0.3<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><h4 id="1-1-2-S7-200SMART的硬件组成"><a href="#1-1-2-S7-200SMART的硬件组成" class="headerlink" title="1.1.2 S7-200SMART的硬件组成"></a>1.1.2 S7-200SMART的硬件组成</h4><p><img src="5S7-200SMART%E7%A1%AC%E4%BB%B6%E7%BB%84%E6%88%90.png" alt></p><p><strong>图1-5：S7-200SMART的硬件组成</strong></p><h4 id="1-1-3-S7-200SMART-PLC的订货号"><a href="#1-1-3-S7-200SMART-PLC的订货号" class="headerlink" title="1.1.3 S7-200SMART PLC的订货号"></a>1.1.3 S7-200SMART PLC的订货号</h4><p><img src="6S7-200SMARTPLC%E8%AE%A2%E8%B4%A7%E5%8F%B7.png" alt></p><p><strong>图1-6：S7-200SMARTPLC的订货号</strong></p><h4 id="1-1-4-S7-200SMART-CPU选型"><a href="#1-1-4-S7-200SMART-CPU选型" class="headerlink" title="1.1.4 S7-200SMART CPU选型"></a>1.1.4 S7-200SMART CPU选型</h4><p><img src="7S7-200SMARTCPU%E9%80%89%E5%9E%8B.png" alt></p><p><strong>图1-7：S7-200SMARTCPU的选型</strong></p><h4 id="1-1-5-S7-200SMART-模块选型"><a href="#1-1-5-S7-200SMART-模块选型" class="headerlink" title="1.1.5 S7-200SMART 模块选型"></a>1.1.5 S7-200SMART 模块选型</h4><p><img src="8S7-200SMART%E6%A8%A1%E5%9D%97%E9%80%89%E5%9E%8B.png" alt></p><p><strong>图1-8：S7-200SMART模块的选型</strong></p><p><img src="9S7-200SMART%E4%BF%A1%E5%8F%B7%E6%9D%BF%E9%80%89%E5%9E%8B.png" alt></p><p><strong>图1-9：S7-200SMART信号板的选型</strong></p><p><img src="10S7-200SMART%E9%99%84%E4%BB%B6%E9%80%89%E5%9E%8B.png" alt></p><p><strong>图1-10：S7-200SMART附件的选型</strong></p><h2 id="二、S7-200SMART接线"><a href="#二、S7-200SMART接线" class="headerlink" title="二、S7-200SMART接线"></a>二、S7-200SMART接线</h2><h3 id="2-1S7-200SMART接线方式"><a href="#2-1S7-200SMART接线方式" class="headerlink" title="2. 1S7-200SMART接线方式"></a>2. 1S7-200SMART接线方式</h3><h4 id="2-1-1-S7-200SMART硬件接线"><a href="#2-1-1-S7-200SMART硬件接线" class="headerlink" title="2.1.1 S7-200SMART硬件接线"></a>2.1.1 S7-200SMART硬件接线</h4><p><img src="11S7-200SMART%E8%BE%93%E5%85%A5%E7%AB%AF%E5%AD%90%E6%8E%A5%E7%BA%BF%E6%96%B9%E5%BC%8F.png" alt></p><p><strong>图2-1：S7-200SMART输入端子接线方式</strong></p><p><img src="12%E4%B8%A4%E7%BA%BF%E5%88%B6%E4%BC%A0%E6%84%9F%E5%99%A8%E5%85%B1%E9%98%B3%E6%9E%81%E6%8E%A5%E7%BA%BF.png" alt></p><p><strong>图2-2：S7-200SMART与两线制传感器共阳极接线方式</strong></p><p><img src="13%E4%B8%A4%E7%BA%BF%E5%88%B6%E4%BC%A0%E6%84%9F%E5%99%A8%E5%85%B1%E9%98%B4%E6%9E%81%E6%8E%A5%E7%BA%BF.png" alt></p><p><strong>图2-3：S7-200SMART与两线制传感器共阴极接线方式</strong></p><h4 id="2-1-2-传感器与PLC硬件接线"><a href="#2-1-2-传感器与PLC硬件接线" class="headerlink" title="2.1.2 传感器与PLC硬件接线"></a>2.1.2 传感器与PLC硬件接线</h4><p><img src="14NPN%E5%9E%8B%E4%B8%8EPNP%E5%9E%8B%E4%BC%A0%E6%84%9F%E5%99%A8%E6%8E%A5%E7%BA%BF.png" alt></p><p><strong>图2-4：NPN型与PNP型传感器接线方式</strong></p><p><strong>有的四线制传感器，只是将输出信号分为了常开和常闭两种信号。</strong></p><p><img src="15NPN%E5%9E%8B%E5%BC%80%E5%85%B3%E6%8E%A5%E7%BA%BF.png" alt></p><p><strong>图2-5：NPN型开关接线方式</strong></p><p><img src="16PNP%E5%9E%8B%E5%BC%80%E5%85%B3%E6%8E%A5%E7%BA%BF.png" alt></p><p><strong>图2-6：PNP型开关接线方式</strong></p><h2 id="三、输出信号的接线类型"><a href="#三、输出信号的接线类型" class="headerlink" title="三、输出信号的接线类型"></a>三、输出信号的接线类型</h2><h3 id="3-1-继电器与晶体管输出接线"><a href="#3-1-继电器与晶体管输出接线" class="headerlink" title="3.1 继电器与晶体管输出接线"></a>3.1 继电器与晶体管输出接线</h3><h4 id="3-1-1-继电器与晶体管接线"><a href="#3-1-1-继电器与晶体管接线" class="headerlink" title="3.1.1 继电器与晶体管接线"></a>3.1.1 继电器与晶体管接线</h4><p>![](17S7-200 SMART继电器与晶体管输出.png)</p><p><strong>图3-1：S7-200SMART继电器与晶体管输出</strong></p><h4 id="3-1-2-晶体管输出端子接线方式"><a href="#3-1-2-晶体管输出端子接线方式" class="headerlink" title="3.1.2 晶体管输出端子接线方式"></a>3.1.2 晶体管输出端子接线方式</h4><p><img src="18%E6%99%B6%E4%BD%93%E7%AE%A1%E8%BE%93%E5%87%BA%E7%AB%AF%E5%AD%90%E6%8E%A5%E7%BA%BF%E6%96%B9%E5%BC%8F.png" alt></p><p><strong>图3-2：S7-200SMART晶体管输出端子接线方式</strong></p><h4 id="3-1-3-继电器输出端子接线方式"><a href="#3-1-3-继电器输出端子接线方式" class="headerlink" title="3.1.3 继电器输出端子接线方式"></a>3.1.3 继电器输出端子接线方式</h4><p><img src="19%E7%BB%A7%E7%94%B5%E5%99%A8%E8%BE%93%E5%87%BA%E7%AB%AF%E5%AD%90%E6%8E%A5%E7%BA%BF%E6%96%B9%E5%BC%8F.png" alt></p><p><strong>图3-3：S7-200SMART继电器输出端子接线方式</strong></p><h2 id="四、S7-200SMART软件相关"><a href="#四、S7-200SMART软件相关" class="headerlink" title="四、S7-200SMART软件相关"></a>四、S7-200SMART软件相关</h2><h3 id="4-1-PLC通信相关"><a href="#4-1-PLC通信相关" class="headerlink" title="4.1 PLC通信相关"></a>4.1 PLC通信相关</h3><h4 id="4-1-1-软件无法与PLC通信处理"><a href="#4-1-1-软件无法与PLC通信处理" class="headerlink" title="4.1.1 软件无法与PLC通信处理"></a>4.1.1 软件无法与PLC通信处理</h4><p><img src="20S7-200SMART%E8%BD%AF%E4%BB%B6%E6%97%A0%E6%B3%95%E4%B8%8EPLC%E9%80%9A%E4%BF%A1%E5%A4%84%E7%90%86.png" alt></p><p><strong>图4-1：S7-200SMART软件与PLC无法进行通信处理</strong></p><h3 id="4-2-PLC编程相关"><a href="#4-2-PLC编程相关" class="headerlink" title="4.2 PLC编程相关"></a>4.2 PLC编程相关</h3><h4 id="4-2-1-S7-200SMART编程常用快捷键"><a href="#4-2-1-S7-200SMART编程常用快捷键" class="headerlink" title="4.2.1 S7-200SMART编程常用快捷键"></a>4.2.1 S7-200SMART编程常用快捷键</h4><p><strong>F1 : 帮助文件的调用</strong></p><p><strong>F3 : 插入一行程序编辑栏</strong></p><p><strong>F4: 触点指令快捷键</strong></p><p><strong>F6 : 线圈指令快捷键</strong></p><p><strong>F9 : 功能指令快捷键</strong></p><p><strong>Ctrl + 方向键 : 改变连接线的位置</strong></p><h4 id="4-2-2-项目程序的加密及解除"><a href="#4-2-2-项目程序的加密及解除" class="headerlink" title="4.2.2 项目程序的加密及解除"></a>4.2.2 项目程序的加密及解除</h4><p><img src="21%E9%A1%B9%E7%9B%AE%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%8A%A0%E5%AF%86%E5%8F%8A%E8%A7%A3%E9%99%A4%E5%8A%A0%E5%AF%86%E6%96%B9%E6%B3%95.png" alt></p><p><strong>图4-2：项目程序的加密及解除</strong></p><h4 id="4-2-3-S7-200SMART程序转S7-200程序"><a href="#4-2-3-S7-200SMART程序转S7-200程序" class="headerlink" title="4.2.3 S7-200SMART程序转S7-200程序"></a>4.2.3 S7-200SMART程序转S7-200程序</h4><p><strong>smart后缀文件，需要先下载一个200smart软件。</strong></p><p><strong>打开软件后将程序与IO表依次复制到S7-200软件里即可。</strong></p><blockquote><p><strong>关子非鱼，安知鱼之乐？ ——庄子 《秋水》</strong></p></blockquote><p>​    </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 西门子知识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 西门子PLC </tag>
+            
+            <tag> S7-S200 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【A00】目录及名言</title>
+      <link href="article/zhan-nei-ming-yan-ming-ju-hui-zong/"/>
+      <url>article/zhan-nei-ming-yan-ming-ju-hui-zong/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><strong>【A01】认识S7-200SMART</strong></p><p><strong>【A02】S7-200SMART基础指令</strong></p><p><strong>【A03】S7-200SMART数据结构</strong></p><p><strong>【A04】S7-200SMART进阶指令</strong></p><p><strong>【A05】S7-200SMART中断子程序</strong></p><p><strong>【A06】S7-200SMART模拟量</strong></p><p><strong>【A07】S7-200SMART之PID调节</strong></p><p><strong>【A08】S7-200SMART高速计数器</strong></p><p><strong>【A09】S7-200SMART高速脉冲</strong></p><p><strong>【A10】S7-200SMART之GETPUT通信</strong></p><p><strong>【A11】S7-200SMART之MODBUS通信</strong></p><p><strong>【A12】S7-200SMART与变频器通信</strong></p><p><strong>【A13】S7-200SMART经典案例</strong></p></blockquote><blockquote><p><strong>人生天地之间，若白驹过隙，忽然而已。 ——庄子 《知北游》</strong></p><p><strong>关子非鱼，安知鱼之乐？ ——庄子 《秋水》</strong></p><p><strong>来世不可待，往世不可追也。 ——庄子 《庄子·人世间》</strong></p><p><strong>相视而笑，莫逆于心。 ——庄子 《大宗师》</strong></p><p><strong>君子之交淡若水，小人之交甘若醴；君子淡以亲，小人甘以绝。 ——庄周</strong></p><p><strong>井蛙不可以语于海者，拘于虚也；夏虫不可以语于冰者，笃于时也；曲士不可以语于道者，束于教也。 ——庄子 《秋水》</strong></p><p><strong>吾生也有涯，而知也无涯。以有涯随无涯，殆已；已而为知者，殆而已矣。 ——庄子 《养生主》</strong></p><p><strong>朴素而天下莫能与之争美。 ——庄子 《庄子·天道》</strong></p><p><strong>知我者，谓我心忧；不知我者，谓我何求。 ——诗经 《黍离》</strong></p><p><strong>死生契阔，与子成说。执子之手，与子偕老。 ——诗经 《邶风击鼓》</strong></p><p><strong>蒹葭苍苍，白露为霜。所谓伊人，在水一方。 ——诗经 《国风·秦风·蒹葭》</strong></p><p><strong>今夕何夕，见此良人？子兮子兮，如此良人何？ ——诗经 《诗经·唐风·绸缪》</strong></p><p><strong>五月鸣蜩，六月精阳。七月流火。 ——诗经</strong></p><p><strong>如月之恒，如日之升。如南山之寿，不骞不崩。如松柏之茂，无不尔或承。 ——诗经 《小雅》</strong></p><p><strong>彼采萧兮，一日不见，如三秋兮！ ——诗经 《诗经·王风·采葛》</strong></p><p><strong>既见君子，我心则喜。 ——诗经</strong></p><p><strong>无用之用，方为大用。 ——庄子 《庄子》</strong></p><p><strong>巧者劳而智者忧，无能者无所求。 ——庄子</strong></p><p><strong>哀莫大于心死，而人死亦次之。 ——庄子 《庄子 田子方》</strong></p><p><strong>天地与我并存，万物与我为一。 ——庄周</strong></p><p><strong>人皆知有用之用，而莫知无用之用也。 ——庄子 《人间世》</strong></p><p><strong>尾生与女子期于梁下，女子不来，水至不去，抱梁柱而死。 ——庄子 《庄子》</strong></p><p><strong>天地有大美而不言。 ——庄子 《知北游》</strong></p><p><strong>日出而作，日入而息。逍遥于天地之间，而心意自得。 ——庄子 《庄子·让王》</strong></p><p><strong>以天下为之笼，则雀无所逃。 ——庄子 《庚桑楚》</strong></p><p><strong>节饮食以养胃，多读书以养胆。 ——庄子</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 站点目录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电气工程 </tag>
+            
+            <tag> 目录名言 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
